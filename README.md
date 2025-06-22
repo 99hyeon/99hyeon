@@ -18,11 +18,10 @@
     <a href="https://solved.ac/hyeon9907">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon9907" alt="Solved.ac 프로필" style="height: 180px; width: auto; border-radius: 10px;">
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=hyeon99&show_icons=true&show=reviews,discussions_started&theme=radical" alt="Big-Cir's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=99hyeon&show_icons=true&theme=radical" alt="Big-Cir's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
   </div>
 </div>
 </div> <br>
-
 
 <!--
 Header 코드
