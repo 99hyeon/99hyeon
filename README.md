@@ -1,13 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&section=header&text=Welcome%20Welcome%20😝&color=0:e6749d,100:c32e61&stroke=cd4275&strokeWidth=2&fontSize)
 
+</br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon9907)](https://solved.ac/hyeon9907)
+## 📢 About Me!
+
+<div align="center">
+<div>📝 blog. https://shdev-99.tistory.com/ </div>
+<div>📫 email. s99hyeon@gmail.com</div>
+</div>
+
+</br>
+
+## 📈 Algorithm Score & GitHub Stats
+<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 20px;">
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <a href="https://solved.ac/hyeon9907">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeon9907" alt="Solved.ac 프로필" style="height: 180px; width: auto; border-radius: 10px;">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=hyeon99&show_icons=true&show=reviews,discussions_started&theme=radical" alt="Big-Cir's GitHub stats" style="height: 180px; width: auto; border-radius: 10px;">
+  </div>
+</div>
+</div> <br>
 
 
-## ⏲️ Github-stats  
-
-![99hyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=99hyeon&show_icons=true&theme=radical)
 <!--
 Header 코드
 ![header](https://capsule-render.vercel.app/api?type=타입_이름&color=컬러_종류_또는_코드&height=높이&section=header&text=텍스트)
