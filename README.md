@@ -5,7 +5,7 @@
 ## 📢 About Me!
 
 <div align="center">
-<div>📝 blog. https://shdev-99.tistory.com/ </div>
+<!-- <div>📝 blog. https://shdev-99.tistory.com/ </div> -->
 <div>📫 email. s99hyeon@gmail.com</div>
 </div>
 
